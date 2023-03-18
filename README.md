@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/intro-section-w-dropdown-navigation-html-scss-js-mobile-first-BkO19jLayl
+- Live Site URL:https://steady-semolina-ab57cc.netlify.app/
 
 ## My process
 
