@@ -1,0 +1,16 @@
+@use "variable";
+@use "header";
+@use "main";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: auto;
+  font-family: "Epilogue", sans-serif;
+}

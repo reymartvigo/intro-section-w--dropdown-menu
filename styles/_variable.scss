@@ -1,0 +1,18 @@
+$AlmostWhite: hsl(0, 0%, 98%);
+$MediumGray: hsl(0, 0%, 41%);
+$AlmostBlack: hsl(0, 0%, 8%);
+
+$font: "Epilogue", sans-serif;
+
+@mixin display($display: flex, $align: center) {
+  display: $display;
+  align-items: $align;
+}
+
+@mixin buttons {
+  background: none;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-family: $font;
+}
